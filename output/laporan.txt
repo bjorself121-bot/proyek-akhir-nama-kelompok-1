@@ -1,0 +1,9 @@
+LAPORAN ANALISIS STATISTIK FATIH
+Waktu pembuatan: 2026-10-30 17:06:01.176509
+
+jumlah_data: 8
+rata_rata: 81.88
+median: 82.50
+nilai_minimum: 67.00
+nilai_maksimum: 92.00
+rentang: 25.00
