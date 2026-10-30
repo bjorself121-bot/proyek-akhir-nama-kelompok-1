@@ -1,5 +1,5 @@
 LAPORAN ANALISIS STATISTIK FATIH
-Waktu pembuatan: 2026-10-30 17:06:01.176509
+Waktu pembuatan: 2026-10-30 17:46:44.486949
 
 jumlah_data: 8
 rata_rata: 81.88
